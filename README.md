@@ -6,4 +6,4 @@ A simple hangman game to play with your friends.
 
 Runs on Python 3.0 and up.
 
-Clone the project to any Python compiler and press run.
+Clone the project to any Python IDE and press run.
